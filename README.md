@@ -217,4 +217,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## Contact
-For questions or suggestions, please open an issue on GitHub or contact the maintainer at `<your_email>`.
+For questions or suggestions, please open an issue on GitHub .
